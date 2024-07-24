@@ -14,7 +14,6 @@
 
 <img align="right" height="150" width="210" src="data.gif">
 
-- 🔭 **I’m currently working on:** Python, React and Node js.
 - 🌱 **I’m currently learning:** Python, React and Node js.
 - 👯 **I’m looking to collaborate on:** Fullstack projects
 - ⚡ **Hobbies:** Books, internet, music, series, running, pet my doggo
