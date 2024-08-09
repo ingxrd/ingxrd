@@ -14,7 +14,7 @@
 
 - 🌱 **I’m currently learning:** Python, React and Node js.
 - 👯 **I’m looking to collaborate on:** Fullstack projects
-- ⚡ **Hobbies:** Books, music, series, running
+- ⚡ **Hobbies:** Books, music, tv shows, running
 - 😄 **Pronouns:** She/Her
 
 ---
