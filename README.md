@@ -7,7 +7,7 @@
    <a href="https://medium.com/@devingrid"><img alt="Medium" src="https://img.shields.io/badge/-@ingxrd-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@devingrid"></a>
 </p>
 
-<h4 align="left">  I am a Software Analysis and Development student with a strong interest in Fullstack development. Enthusiast of graphic design. Internet citizen. </h4>
+<h4 align="left">  I am a tech student with a strong interest in Fullstack development. Enthusiast of graphic design. Internet citizen. </h4>
 
 
 ---
