@@ -3,7 +3,6 @@
 
 <p align="left">
    <a href="https://www.linkedin.com/in/ingrid-munhoz-b8a6142b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/-ingridmunhoz-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingrid-munhoz-b8a6142b1/"></a>
-   <a href="mailto:devingridmunhoz@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-devingridmunhoz@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devingridmunhoz@gmail.com"></a>
    <a href="https://medium.com/@devingrid"><img alt="Medium" src="https://img.shields.io/badge/-@ingxrd-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@devingrid"></a>
 </p>
 
